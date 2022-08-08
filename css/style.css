@@ -33,11 +33,11 @@ main {
 
 .pokemon__data {
     position: absolute;   
-    font-weight: 300;
+    
     color: rgb(117, 117, 117);
-    top: 61.5%;
+    top: 61.2%;
     right: 25%;
-    font-size: clamp(8px, 5vw, 25px);
+    font-size: clamp(8px, 5vw, 22px);
     border-color: #000;
 
 
