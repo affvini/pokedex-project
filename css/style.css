@@ -44,19 +44,12 @@ main {
 }
 
 .pokemon__data2 {
-    position: absolute; 
-    background-color: #3a444d;  
-    border-radius: 5px;
-    font-weight: 300;
-    color: rgb(255, 255, 255);
-    top: 12.5%;
-    right: 25%;
-    font-size: clamp(8px, 5vw, 40px);
+    position: absolute;      
+    color: rgb(0, 65, 29);
+    top: 14.8%;
+    right: 24.5%;
+    font-size: clamp(8px, 5vw, 35px);
     font-family: monospace;
-    box-shadow: -2px 3px 0 #222, -4px 6px 0 #000;
-
-
-
 
 }
 
